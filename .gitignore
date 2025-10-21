@@ -5,3 +5,4 @@ artifacts/
 submission.csv
 .ipynb_checkpoints/
 printf "%s\n" ".DS_Store" "__pycache__/" "*.pyc" ".ipynb_checkpoints/" ".venv/" "artifacts/" "submission.csv" >> .gitignore
+.DS_Store
