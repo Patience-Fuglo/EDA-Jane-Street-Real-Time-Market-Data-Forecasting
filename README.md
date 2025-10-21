@@ -1,6 +1,6 @@
-# 🧠 Jane Street Real-Time Market Data Forecasting (EDA)
+# 🧠 Jane Street Real-Time Market Data Forecasting
 
-Exploratory Data Analysis (EDA) project for the **Jane Street Real-Time Market Data Forecasting** Kaggle competition.  
+Exploratory Data Analysis project for the **Jane Street Real-Time Market Data Forecasting** Kaggle competition.  
 This notebook investigates patterns, feature distributions, and relationships in the provided market dataset to inform future predictive modeling.
 
 ---
